@@ -11,3 +11,4 @@ check(){
  	check
 	echo $num
 	num=num+1
+#wohenlihai!
